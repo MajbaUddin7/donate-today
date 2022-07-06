@@ -1,0 +1,81 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+#header {
+    font-family: 'kalam', cursive;
+    font-family: 'Mingzat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(images/donation8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+h1 {
+    font-size: 75px;
+    color: white;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h4 {
+    font-size: 30px;
+    color: brown;
+}
+
+h6 {
+    font-size: 20px;
+    color: gray;
+}
+
+p {
+    font-size: 20px;
+    color: gray;
+}
+
+.banner {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 100px;
+
+
+}
+
+#background-color {
+    background-color: #FFF4D6;
+    padding: 60px 60px;
+    width: 50%;
+    margin-left: 20%;
+
+}
+
+#emails {
+    background-color: gainsboro;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.footer-design {
+    background-color: black;
+    height: 200px;
+}
