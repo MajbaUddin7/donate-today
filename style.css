@@ -103,8 +103,8 @@ p {
 
 #background-color {
     background-color: #FFF4D6;
-    padding: 60px;
-    margin: 10%;
+    padding: 70px;
+    margin: 5%;
 
 }
 
@@ -121,7 +121,7 @@ p {
 }
 
 .subscribe {
-    margin-left: -5px;
+    margin-left: -10px;
 }
 
 footer {
