@@ -29,6 +29,7 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
+    margin-bottom: 80px;
 }
 
 .top-banner-content {
@@ -74,19 +75,19 @@ p {
     margin-right: 1%;
     padding: 40px;
     border-radius: 10px;
-    background-color: lightgray;
+    background-color: #FAFAFA;
 }
 
 .box-item-2 {
-    border: 1px solid black;
-    background-color: pink;
+    border: 1px solid #FF5959;
+    background-color: #FFEEEE;
 
 }
 
 .amount input[type=text] {
     border: 0px;
     border-bottom: 1px solid gray;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     padding: 10px 100px;
 
 }
