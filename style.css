@@ -108,23 +108,17 @@ p {
 
 }
 
-.half-width {
-    width: 50%;
-    padding-left: 5%;
-}
-
 .half-width img {
-    width: 80%;
+    width: 90%;
+    margin-bottom: 20px;
+
 }
 
 #emails {
     background-color: gainsboro;
     padding: 10px 12px;
     border-radius: 5px;
-
 }
-
-
 
 .subscribe {
     margin-left: -5px;
