@@ -67,7 +67,10 @@ p {
     box-shadow: 10px 10px 40px gray;
 }
 
-
+.box-item-2 {
+    border: 1px solid #FF5959;
+    background-color: #FFEEEE;
+}
 
 #amount_box {
     width: 40%;
@@ -78,20 +81,12 @@ p {
     background-color: #FAFAFA;
 }
 
-.box-item-2 {
-    border: 1px solid #FF5959;
-    background-color: #FFEEEE;
-
-}
-
 .amount input[type=text] {
     border: 0px;
     border-bottom: 1px solid gray;
     margin-bottom: 20px;
-    padding: 10px 100px;
-
+    padding: 20px 300px;
 }
-
 
 #background-color {
     background-color: #FFF4D6;
