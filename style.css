@@ -88,6 +88,19 @@ p {
     padding: 20px 300px;
 }
 
+.food_box {
+    background-color: rgba(47, 217, 255, 0.353);
+}
+
+.shelter_box {
+    background-color: pink;
+}
+
+.education_box {
+    background-color: #FFF4D6;
+
+}
+
 #background-color {
     background-color: #FFF4D6;
     padding: 60px;
@@ -111,9 +124,7 @@ p {
 
 }
 
-.food_box {
-    background-color: #4f9da616;
-}
+
 
 .subscribe {
     margin-left: -5px;
